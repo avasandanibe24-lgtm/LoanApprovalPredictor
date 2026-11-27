@@ -1,0 +1,13 @@
+{
+  "income_annum": 7200000,
+  "loan_amount": 18000000,
+  "loan_term": 12,
+  "cibil_score": 760,
+  "no_of_dependents": 2,
+  "education": "Graduate",
+  "self_employed": "No",
+  "residential_assets_value": 4000000,
+  "commercial_assets_value": 2000000,
+  "luxury_assets_value": 6000000,
+  "bank_asset_value": 1500000
+}
